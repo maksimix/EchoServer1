@@ -81,7 +81,7 @@ void EchoTcpServer::slotServerReadClient(){
 ```
 
 
-## Функция 
+## Функция ***slotClientDisconnected***
 
  ***slotClientDisconnected*** - слот  класса **EchoTcpServer**. Этот слот вызывается при отключении клиента от сервера. 
 ```cpp
